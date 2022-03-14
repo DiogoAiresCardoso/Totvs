@@ -1,0 +1,2 @@
+inherited ViewBotoes: TViewBotoes
+end
